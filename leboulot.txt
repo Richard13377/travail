@@ -1,0 +1,8 @@
+https://blogmotion.fr/internet/tools-vmware-12143
+
+https://wiki.debian.org/fr/SourcesList
+
+https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5993816-installez-votre-serveur-glpi
+
+https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5994176-installez-le-plugin-et-l-agent-fusioninventory
+
